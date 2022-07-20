@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323172550470",
+    "project_id": "social-login-a5513",
+    "storage_bucket": "social-login-a5513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323172550470:android:dbd5a5f049d0b7b2160747",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323172550470-p8o8qdcp1pmsbd2kr3otpneo29os4nci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACMMAJb2bKUQ7WbypVdXaGvPPYCaL-M8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323172550470-p8o8qdcp1pmsbd2kr3otpneo29os4nci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
